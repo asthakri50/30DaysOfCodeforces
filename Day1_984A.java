@@ -13,7 +13,7 @@ public class Day1_984A {
 
         Arrays.sort(arr);
 
-        System.out.println(arr[(n + 1) / 2]);
+        System.out.println(arr[(n - 1) / 2]);
 
     }
 }
