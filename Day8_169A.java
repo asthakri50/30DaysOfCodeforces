@@ -13,9 +13,9 @@ public class Day8_169A {
 
         scan.close();
         Arrays.sort(chores);
-        if (chores[b - 1] == chores[n - a])
+        if (chores[b - 1] == chores[b])
             System.out.println(0);
         else
-            System.out.println(chores[n - a] - chores[b - 1]);
+            System.out.println(chores[b] - chores[b - 1]);
     }
 }
