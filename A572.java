@@ -2,7 +2,7 @@ import java.util.*;
 
 import javax.lang.model.util.ElementScanner6;
 
-public class Day3_572A {
+public class A572 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
