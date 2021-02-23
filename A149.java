@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Day6_149A {
+public class A149 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int k = scan.nextInt();
